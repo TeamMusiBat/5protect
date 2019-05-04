@@ -38,10 +38,10 @@ g1 = LINE('')
 print ("===============[ GHOST LOGIN SUKSES]===============\n")
 
 myMid = line.profile.mid
-creator = ["u47d41cc45c4576282d0c52ce4d5b5856"]
-owner = ["u47d41cc45c4576282d0c52ce4d5b5856"]
-admin = ["u47d41cc45c4576282d0c52ce4d5b5856"]
-staff = ["u47d41cc45c4576282d0c52ce4d5b5856"]
+creator = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+owner = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+admin = ["ufe278afdfb3617b8fd9919c9489b9ced"]
+staff = ["ufe278afdfb3617b8fd9919c9489b9ced"]
 Amid = kicker.getProfile().mid
 Bmid = kicker2.getProfile().mid
 Cmid = kicker3.getProfile().mid
